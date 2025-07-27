@@ -1,0 +1,3 @@
+from ExpenseTrackModules import *
+
+MainFunc()
