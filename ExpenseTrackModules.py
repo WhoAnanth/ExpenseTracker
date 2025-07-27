@@ -9,7 +9,7 @@ from tkinter import *
 
 ctk.set_appearance_mode('dark')
 window=ctk.CTk()
-img=PhotoImage(file='BackgroundImage.png') 
+img=PhotoImage(file='bgimg.png') 
 tk.Label(window,image=img).pack()
 
 def MainFunc():
